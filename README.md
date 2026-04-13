@@ -50,12 +50,6 @@ Karachi, Pakistan
 
 ---
 
-##  GitHub Stats
-[![Zareen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zareensansari&show_icons=true&theme=tokyonight)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zareensansari&layout=compact&theme=tokyonight)
-
----
-
 ##  Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zareenansari/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ansarizareen189@gmail.com)
