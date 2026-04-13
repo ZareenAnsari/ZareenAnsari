@@ -29,23 +29,23 @@ Karachi, Pakistan
 
 ##  Featured Projects
 
-###  [AI-Based Cervical Cancer Detection (CNN)](https://github.com/zareensansari/cervical-cancer-detection)
+###  [AI-Based Cervical Cancer Detection (CNN)](https://github.com/zareenansari/cervical-cancer-detection)
 > Deep Learning model using CNN to classify cervical cancer from Pap smear images  
 >  High classification accuracy | TensorFlow | Image Augmentation | F1-Score Evaluation
 
-###  [Credit Card Client Classification](https://github.com/zareensansari/credit-card-classification)
+###  [Credit Card Client Classification](https://github.com/zareenansari/credit-card-classification)
 > Logistic Regression, Random Forest & Decision Tree | 89% Accuracy
 
-###  [Heart Disease Prediction](https://github.com/zareensansari/heart-disease-prediction)
+###  [Heart Disease Prediction](https://github.com/zareenansari/heart-disease-prediction)
 > KNN & Logistic Regression | 87% Accuracy | GridSearchCV Tuning
 
-###  [Automobile Price Prediction](https://github.com/zareensansari/automobile-price-prediction)
+###  [Automobile Price Prediction](https://github.com/zareenansari/automobile-price-prediction)
 > EDA + Regression Models | Feature Engineering | Encoded Categorical Variables
 
-###  [Boston Housing Price Prediction](https://github.com/zareensansari/boston-housing)
+###  [Boston Housing Price Prediction](https://github.com/zareenansari/boston-housing)
 > Ridge Regression | R² = 0.85 | Heatmaps & Scatter Plot Visualization
 
-###  [Iris Species Classification](https://github.com/zareensansari/iris-classification)
+###  [Iris Species Classification](https://github.com/zareenansari/iris-classification)
 > SVM, KNN, Decision Tree | 92% Accuracy | Cross-Validation
 
 ---
@@ -58,4 +58,4 @@ Karachi, Pakistan
 
 ##  Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zareenansari/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zareensari918@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zareenansari918@gmail.com)
