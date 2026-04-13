@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hi, I'm Zareen Ansari 👋
+### Data Scientist | ML Engineer | Deep Learning Enthusiast
 
-<!--
-**ZareenAnsari/ZareenAnsari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔬 I build machine learning models and data-driven solutions  
+🎓 B.E. Computer Systems Engineering — Dawood University  
+📍 Karachi, Pakistan  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🧠 Passionate about **Machine Learning**, **Deep Learning**, and **Computer Vision**
+- 🏥 Built an **AI-Based Cervical Cancer Detection System** using CNN
+- 📊 Experienced in end-to-end ML pipelines: EDA → Modeling → Evaluation
+- 🌱 Currently expanding knowledge in **NLP** and **Advanced Deep Learning**
+- 💼 Open to **Data Scientist** and **ML Engineer** roles
+
+---
+
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📂 Featured Projects
+
+### 🏥 [AI-Based Cervical Cancer Detection (CNN)](https://github.com/zareensansari/cervical-cancer-detection)
+> Deep Learning model using CNN to classify cervical cancer from Pap smear images  
+> ✅ High classification accuracy | TensorFlow | Image Augmentation | F1-Score Evaluation
+
+### 💳 [Credit Card Client Classification](https://github.com/zareensansari/credit-card-classification)
+> Logistic Regression, Random Forest & Decision Tree | 89% Accuracy
+
+### ❤️ [Heart Disease Prediction](https://github.com/zareensansari/heart-disease-prediction)
+> KNN & Logistic Regression | 87% Accuracy | GridSearchCV Tuning
+
+### 🚗 [Automobile Price Prediction](https://github.com/zareensansari/automobile-price-prediction)
+> EDA + Regression Models | Feature Engineering | Encoded Categorical Variables
+
+### 🏠 [Boston Housing Price Prediction](https://github.com/zareensansari/boston-housing)
+> Ridge Regression | R² = 0.85 | Heatmaps & Scatter Plot Visualization
+
+### 🌸 [Iris Species Classification](https://github.com/zareensansari/iris-classification)
+> SVM, KNN, Decision Tree | 92% Accuracy | Cross-Validation
+
+---
+
+## 📊 GitHub Stats
+![Zareen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zareensansari&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zareensansari&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zareensansari)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zareensari918@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/zareensansari)
