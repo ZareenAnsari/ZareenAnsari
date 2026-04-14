@@ -48,7 +48,7 @@ Karachi, Pakistan
 ###  [Iris Species Classification](https://github.com/zareenansari/iris-classification)
 > SVM, KNN, Decision Tree | 92% Accuracy | Cross-Validation
 
-### 🌍 [Life Expectancy Prediction](https://github.com/ZareenAnsari/Life-expectancy)
+###  [Life Expectancy Prediction](https://github.com/ZareenAnsari/Life-expectancy)
 > EDA + ML Regression Models | Life Expectancy Dataset | Feature Engineering | Model Evaluation | 91% Accuracy
 
 ---
