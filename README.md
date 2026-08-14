@@ -27,7 +27,6 @@ and Data Analytics.
 ### Programming & Data Science
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Machine Learning & Deep Learning
@@ -111,7 +110,7 @@ Pap smear images using Convolutional Neural Networks.
 
 ---
 
-## 💳 Credit Card Client Classification
+##  Credit Card Client Classification
 
 🔗 [View Project](https://github.com/zareenansari/credit-card-classification)
 
@@ -128,7 +127,7 @@ behavior.
 
 ---
 
-## ❤️ Heart Disease Prediction
+##  Heart Disease Prediction
 
 🔗 [View Project](https://github.com/zareenansari/heart-disease-prediction)
 
@@ -145,7 +144,7 @@ heart disease.
 
 ---
 
-## 🌍 Life Expectancy Prediction
+##  Life Expectancy Prediction
 
 🔗 [View Project](https://github.com/ZareenAnsari/Life-expectancy)
 
