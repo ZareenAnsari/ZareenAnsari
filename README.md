@@ -1,58 +1,197 @@
 # Hi, I'm Zareen Ansari
-### Data Scientist | ML Engineer | Deep Learning Enthusiast
 
-I build machine learning models and data-driven solutions  
-B.E. Computer Systems Engineering — Dawood University  
-Karachi, Pakistan  
+### Data Scientist | Machine Learning Engineer | Deep Learning Enthusiast
+
+🎓 B.E. Computer Systems Engineering  
+📍 Karachi, Pakistan
+
+I am a Data Science and Machine Learning enthusiast focused on building
+data-driven solutions using Machine Learning, Deep Learning, Computer Vision,
+and Data Analytics.
 
 ---
 
 ##  About Me
--  Passionate about **Machine Learning**, **Deep Learning**, and **Computer Vision**
--  Built an **AI-Based Cervical Cancer Detection System** using CNN
--  Experienced in end-to-end ML pipelines: EDA → Modeling → Evaluation
--  Currently expanding knowledge in **NLP** and **Advanced Deep Learning**
--  Open to **Data Scientist** and **ML Engineer** roles
+
+- 🔹 Passionate about **Machine Learning, Deep Learning, and Data Science**
+- 🔹 Experienced in developing **end-to-end machine learning pipelines**
+- 🔹 Built AI-based solutions using **CNNs and Computer Vision**
+- 🔹 Experienced with **EDA, Feature Engineering, Model Training, Evaluation, and Deployment**
+- 🔹 Currently expanding my knowledge in **NLP, Advanced Deep Learning, and Data Science**
+- 🔹 Interested in **Data Scientist, Machine Learning Engineer, and Data Analyst** roles
 
 ---
 
 ##  Tech Stack
+
+### Programming & Data Science
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Machine Learning & Deep Learning
+
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189C37?style=for-the-badge&logo=xgboost&logoColor=white)
+
+### Data Analysis & Visualization
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+### Deployment & Tools
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
-##  Featured Projects
+#  Featured Projects
 
-###  [AI-Based Cervical Cancer Detection (CNN)](https://github.com/zareenansari/cervical-cancer-detection)
-> Deep Learning model using CNN to classify cervical cancer from Pap smear images  
->  High classification accuracy | TensorFlow | Image Augmentation | F1-Score Evaluation
+##  Karachi Air Quality Index (AQI) Prediction & Forecasting
 
-###  [Credit Card Client Classification](https://github.com/zareenansari/credit-card-classification)
-> Logistic Regression, Random Forest & Decision Tree | 89% Accuracy
+🔗 [View Project](https://github.com/ZareenAnsari/AQI_Project_10Pearls)
 
-###  [Heart Disease Prediction](https://github.com/zareenansari/heart-disease-prediction)
-> KNN & Logistic Regression | 87% Accuracy | GridSearchCV Tuning
+An end-to-end machine learning system for **Karachi AQI prediction and
+forecasting** using historical air-quality and weather data.
 
-###  [Automobile Price Prediction](https://github.com/zareenansari/automobile-price-prediction)
-> EDA + Regression Models | Feature Engineering | Encoded Categorical Variables
+### Highlights
 
-###  [Boston Housing Price Prediction](https://github.com/zareenansari/boston-housing)
-> Ridge Regression | R² = 0.85 | Heatmaps & Scatter Plot Visualization
+- 📊 Exploratory Data Analysis and visualization
+- ⚙️ Automated feature engineering pipeline
+- 🤖 Multiple machine learning models
+- 📈 Model evaluation using RMSE, MAE, and R²
+- 🌲 Random Forest
+- 🚀 XGBoost
+- 📉 Ridge Regression
+- 🧠 LSTM forecasting
+- 🔌 FastAPI backend
+- 🖥️ Interactive Streamlit dashboard
+- 🔮 AQI Forecasting
+- 🎛️ What-If AQI simulator
+- ⚙️ Automated feature and training pipelines
 
-###  [Iris Species Classification](https://github.com/zareenansari/iris-classification)
-> SVM, KNN, Decision Tree | 92% Accuracy | Cross-Validation
+### Model Performance
 
-###  [Life Expectancy Prediction](https://github.com/ZareenAnsari/Life-expectancy)
-> EDA + ML Regression Models | Life Expectancy Dataset | Feature Engineering | Model Evaluation | 91% Accuracy
+| Model | RMSE | MAE | R² |
+|---|---:|---:|---:|
+| Ridge Regression | 28.1912 | 22.4450 | 0.1029 |
+| **Random Forest** | **24.1779** | **17.2996** | **0.3402** |
+| XGBoost | 25.0515 | 17.4762 | 0.2916 |
+| LSTM | 30.3105 | 23.8073 | -0.0002 |
+
+**Best performing model: Random Forest**
 
 ---
 
-##  Connect With Me
+##  AI-Based Cervical Cancer Detection
+
+🔗 [View Project](https://github.com/zareenansari/cervical-cancer-detection)
+
+Deep learning-based system for classifying cervical cancer cells from
+Pap smear images using Convolutional Neural Networks.
+
+### Highlights
+
+- 🧠 CNN-based image classification
+- 🔬 Medical image analysis
+- 🖼️ Image preprocessing and augmentation
+- 📊 Model evaluation using accuracy and F1-score
+- 🔥 Deep Learning with TensorFlow
+- 📈 Visualization of model performance
+
+---
+
+## 💳 Credit Card Client Classification
+
+🔗 [View Project](https://github.com/zareenansari/credit-card-classification)
+
+Machine learning classification project for predicting credit card client
+behavior.
+
+### Models
+
+- Logistic Regression
+- Random Forest
+- Decision Tree
+
+**Accuracy: 89%**
+
+---
+
+## ❤️ Heart Disease Prediction
+
+🔗 [View Project](https://github.com/zareenansari/heart-disease-prediction)
+
+Machine learning classification system for predicting the likelihood of
+heart disease.
+
+### Models
+
+- K-Nearest Neighbors (KNN)
+- Logistic Regression
+- GridSearchCV Hyperparameter Tuning
+
+**Accuracy: 87%**
+
+---
+
+## 🌍 Life Expectancy Prediction
+
+🔗 [View Project](https://github.com/ZareenAnsari/Life-expectancy)
+
+Machine learning regression project for predicting life expectancy using
+global health and socio-economic indicators.
+
+### Highlights
+
+- Exploratory Data Analysis
+- Feature Engineering
+- Regression Models
+- Model Evaluation
+- Data Visualization
+
+**Accuracy: 91%**
+
+---
+
+# 📊 Areas of Interest
+
+- 🤖 Machine Learning
+- 🧠 Deep Learning
+- 👁️ Computer Vision
+- 📊 Data Science
+- 📈 Data Analytics
+- 🗣️ Natural Language Processing
+- ⏳ Time Series Forecasting
+- 🔮 Predictive Modeling
+- ⚙️ ML Pipelines
+- 🚀 Model Deployment
+
+---
+
+#  Currently Learning
+
+- Advanced Machine Learning
+- Deep Learning
+- Natural Language Processing
+- Time Series Forecasting
+- MLOps
+- Advanced Data Science Techniques
+
+---
+
+#  Connect With Me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zareenansari/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ansarizareen189@gmail.com)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ansarizareen189@gmail.com)
