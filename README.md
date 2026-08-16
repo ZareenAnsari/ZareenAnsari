@@ -64,9 +64,9 @@ Highlights
 
 *  Exploratory Data Analysis and visualization
 *  Automated feature engineering pipeline
-*  Random Forest, 🚀 XGBoost, 📉 Ridge Regression, 🧠 LSTM forecasting
+*  Random Forest,  XGBoost,  Ridge Regression,  LSTM forecasting
 *  Model evaluation using RMSE, MAE, and R² — best model: Random Forest (R² 0.34)
-*  FastAPI backend with 🖥️ interactive Streamlit dashboard
+*  FastAPI backend with interactive Streamlit dashboard
 *  What-If AQI simulator for scenario testing
 
 **Best performing model: Random Forest**
