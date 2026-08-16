@@ -57,17 +57,17 @@ and Data Analytics.
 
 ##  Karachi Air Quality Index (AQI) Prediction & Forecasting
 
-🔗 [View Project](https://github.com/ZareenAnsari/karachi-aqi-prediction)
+ [View Project](https://github.com/ZareenAnsari/karachi-aqi-prediction)
 
 An end-to-end machine learning system for Karachi AQI prediction and forecasting using historical air-quality and weather data.
 Highlights
 
-* 📊 Exploratory Data Analysis and visualization
-* ⚙️ Automated feature engineering pipeline
-* 🌲 Random Forest, 🚀 XGBoost, 📉 Ridge Regression, 🧠 LSTM forecasting
-* 📈 Model evaluation using RMSE, MAE, and R² — best model: Random Forest (R² 0.34)
-* 🔌 FastAPI backend with 🖥️ interactive Streamlit dashboard
-* 🎛️ What-If AQI simulator for scenario testing
+*  Exploratory Data Analysis and visualization
+*  Automated feature engineering pipeline
+*  Random Forest, 🚀 XGBoost, 📉 Ridge Regression, 🧠 LSTM forecasting
+*  Model evaluation using RMSE, MAE, and R² — best model: Random Forest (R² 0.34)
+*  FastAPI backend with 🖥️ interactive Streamlit dashboard
+*  What-If AQI simulator for scenario testing
 
 **Best performing model: Random Forest**
 
@@ -75,25 +75,25 @@ Highlights
 
 ##  AI-Based Cervical Cancer Detection
 
-🔗 [View Project](https://github.com/zareenansari/cervical-cancer-detection)
+ [View Project](https://github.com/zareenansari/cervical-cancer-detection)
 
 Deep learning-based system for classifying cervical cancer cells from
 Pap smear images using Convolutional Neural Networks.
 
 ### Highlights
 
-- 🧠 CNN-based image classification
-- 🔬 Medical image analysis
-- 🖼️ Image preprocessing and augmentation
-- 📊 Model evaluation using accuracy and F1-score
-- 🔥 Deep Learning with TensorFlow
-- 📈 Visualization of model performance
+-  CNN-based image classification
+-  Medical image analysis
+-  Image preprocessing and augmentation
+-  Model evaluation using accuracy and F1-score
+-  Deep Learning with TensorFlow
+-  Visualization of model performance
 
 ---
 
 ##  Credit Card Client Classification
 
-🔗 [View Project](https://github.com/zareenansari/credit-card-classification)
+ [View Project](https://github.com/zareenansari/credit-card-classification)
 
 Machine learning classification project for predicting credit card client
 behavior.
@@ -110,23 +110,23 @@ behavior.
 
 ## Interactive Business Dashboard in Streamlit
 
-🔗 [View Project](https://github.com/ZareenAnsari/Interactive-Business-Dashboard-in-Streamlit)
+ [View Project](https://github.com/ZareenAnsari/Interactive-Business-Dashboard-in-Streamlit)
 
 An interactive Streamlit dashboard analyzing the Global Superstore dataset to surface sales, profit, and customer insights through dynamic filters.
 Highlights
 
-* 📊 Interactive filtering by Region, Category, and Sub-Category
-* 💰 Real-time KPI metrics (Total Sales, Total Profit)
-* 📈 Sales by Region & Profit by Category visualizations
-* 🏆 Top 5 customers by sales
-* 🧹 Automated data cleaning pipeline
-* 🐍 Built with Python, Pandas & Plotly
+*  Interactive filtering by Region, Category, and Sub-Category
+*  Real-time KPI metrics (Total Sales, Total Profit)
+*  Sales by Region & Profit by Category visualizations
+*  Top 5 customers by sales
+*  Automated data cleaning pipeline
+*  Built with Python, Pandas & Plotly
 
 ---
 
 ##  Life Expectancy Prediction
 
-🔗 [View Project](https://github.com/ZareenAnsari/Life-expectancy)
+ [View Project](https://github.com/ZareenAnsari/Life-expectancy)
 
 Machine learning regression project for predicting life expectancy using
 global health and socio-economic indicators.
@@ -143,18 +143,18 @@ global health and socio-economic indicators.
 
 ---
 
-# 📊 Areas of Interest
+#  Areas of Interest
 
-- 🤖 Machine Learning
-- 🧠 Deep Learning
-- 👁️ Computer Vision
-- 📊 Data Science
-- 📈 Data Analytics
-- 🗣️ Natural Language Processing
-- ⏳ Time Series Forecasting
-- 🔮 Predictive Modeling
-- ⚙️ ML Pipelines
-- 🚀 Model Deployment
+-  Machine Learning
+-  Deep Learning
+-  Computer Vision
+-  Data Science
+-  Data Analytics
+-  Natural Language Processing
+-  Time Series Forecasting
+-  Predictive Modeling
+-  ML Pipelines
+-  Model Deployment
 
 ---
 
