@@ -57,35 +57,17 @@ and Data Analytics.
 
 ##  Karachi Air Quality Index (AQI) Prediction & Forecasting
 
-🔗 [View Project](https://github.com/ZareenAnsari/AQI_Project_10Pearls)
+🔗 [View Project](https://github.com/ZareenAnsari/karachi-aqi-prediction)
 
-An end-to-end machine learning system for **Karachi AQI prediction and
-forecasting** using historical air-quality and weather data.
+An end-to-end machine learning system for Karachi AQI prediction and forecasting using historical air-quality and weather data.
+Highlights
 
-### Highlights
-
-- 📊 Exploratory Data Analysis and visualization
-- ⚙️ Automated feature engineering pipeline
-- 🤖 Multiple machine learning models
-- 📈 Model evaluation using RMSE, MAE, and R²
-- 🌲 Random Forest
-- 🚀 XGBoost
-- 📉 Ridge Regression
-- 🧠 LSTM forecasting
-- 🔌 FastAPI backend
-- 🖥️ Interactive Streamlit dashboard
-- 🔮 AQI Forecasting
-- 🎛️ What-If AQI simulator
-- ⚙️ Automated feature and training pipelines
-
-### Model Performance
-
-| Model | RMSE | MAE | R² |
-|---|---:|---:|---:|
-| Ridge Regression | 28.1912 | 22.4450 | 0.1029 |
-| **Random Forest** | **24.1779** | **17.2996** | **0.3402** |
-| XGBoost | 25.0515 | 17.4762 | 0.2916 |
-| LSTM | 30.3105 | 23.8073 | -0.0002 |
+* 📊 Exploratory Data Analysis and visualization
+* ⚙️ Automated feature engineering pipeline
+* 🌲 Random Forest, 🚀 XGBoost, 📉 Ridge Regression, 🧠 LSTM forecasting
+* 📈 Model evaluation using RMSE, MAE, and R² — best model: Random Forest (R² 0.34)
+* 🔌 FastAPI backend with 🖥️ interactive Streamlit dashboard
+* 🎛️ What-If AQI simulator for scenario testing
 
 **Best performing model: Random Forest**
 
