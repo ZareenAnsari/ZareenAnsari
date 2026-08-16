@@ -126,20 +126,18 @@ behavior.
 
 ---
 
-##  Heart Disease Prediction
+## Interactive Business Dashboard in Streamlit
 
-🔗 [View Project](https://github.com/zareenansari/heart-disease-prediction)
+🔗 [View Project](https://github.com/ZareenAnsari/Interactive-Business-Dashboard-in-Streamlit)
+An interactive Streamlit dashboard analyzing the Global Superstore dataset to surface sales, profit, and customer insights through dynamic filters.
+Highlights
 
-Machine learning classification system for predicting the likelihood of
-heart disease.
-
-### Models
-
-- K-Nearest Neighbors (KNN)
-- Logistic Regression
-- GridSearchCV Hyperparameter Tuning
-
-**Accuracy: 87%**
+* 📊 Interactive filtering by Region, Category, and Sub-Category
+* 💰 Real-time KPI metrics (Total Sales, Total Profit)
+* 📈 Sales by Region & Profit by Category visualizations
+* 🏆 Top 5 customers by sales
+* 🧹 Automated data cleaning pipeline
+* 🐍 Built with Python, Pandas & Plotly
 
 ---
 
