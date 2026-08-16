@@ -129,6 +129,7 @@ behavior.
 ## Interactive Business Dashboard in Streamlit
 
 🔗 [View Project](https://github.com/ZareenAnsari/Interactive-Business-Dashboard-in-Streamlit)
+
 An interactive Streamlit dashboard analyzing the Global Superstore dataset to surface sales, profit, and customer insights through dynamic filters.
 Highlights
 
