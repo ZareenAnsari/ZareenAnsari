@@ -57,7 +57,7 @@ and Data Analytics.
 
 ##  Karachi Air Quality Index (AQI) Prediction & Forecasting
 
- [View Project](https://github.com/ZareenAnsari/karachi-aqi-prediction)
+ [View Project](https://github.com/ZareenAnsari/AQI_Project_10Pearls)
 
 An end-to-end machine learning system for Karachi AQI prediction and forecasting using historical air-quality and weather data.
 Highlights
