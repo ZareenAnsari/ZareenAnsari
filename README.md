@@ -91,22 +91,6 @@ Pap smear images using Convolutional Neural Networks.
 
 ---
 
-##  Credit Card Client Classification
-
- [View Project](https://github.com/zareenansari/credit-card-classification)
-
-Machine learning classification project for predicting credit card client
-behavior.
-
-### Models
-
-- Logistic Regression
-- Random Forest
-- Decision Tree
-
-**Accuracy: 89%**
-
----
 
 ## Interactive Business Dashboard in Streamlit
 
